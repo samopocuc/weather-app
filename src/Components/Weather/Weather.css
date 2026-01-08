@@ -1,6 +1,6 @@
-.card__wrapper {
+.logo {
     display: flex;
-    gap: 1rem;
-    margin: 3em;
     justify-content: center;
+    align-items: center;
+    gap: 1rem;
 }

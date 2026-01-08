@@ -1,0 +1,14 @@
+.weather__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.weather__header--img{
+    width: 90px;
+}
+.weather__header--info {
+    line-height: 0.5;
+}
+.weather__header--info p:first-child {
+    font-weight: bold;
+}
