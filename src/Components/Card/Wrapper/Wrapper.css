@@ -1,0 +1,5 @@
+.weather__wrapper {
+    display: flex;
+    gap: 1rem;
+    margin: 3em;
+}
