@@ -1,0 +1,5 @@
+.nav .nav__list {
+    display: flex;
+    gap: 1rem;
+}
+.nav__list-item { list-style: none; text-decoration: none; color: white; }
