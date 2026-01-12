@@ -1,3 +1,4 @@
+import 'reset-css';
 import './App.css';
 import Menu from "./Components/Menu/Menu";
 import Logo from "./Components/Logo/Logo";

@@ -1,0 +1,19 @@
+.weather__forecast {
+    display: flex;
+}
+.weather__forecast {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.weather__forecast--item {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-bottom: 1em;
+    display: flex;
+}
+.weather__forecast--icon {
+    margin-right: 10px;
+}
+.weather__forecast--item:nth-child(2n+1) {
+    border-right: 1px solid;
+}

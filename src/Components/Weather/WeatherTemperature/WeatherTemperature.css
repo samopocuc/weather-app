@@ -1,0 +1,11 @@
+.weather__temperature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.weather__temperature--value
+{
+    font-size: 9rem;
+    margin: 0;
+}
